@@ -16,6 +16,7 @@ public class JenkinsCiCdApplication {
 
 	@GetMapping("/greetings/{name}")
 	public String greetings(@PathVariable String name){
+		System.out.println("Inside Greetings");
 		return "Hello "+ name + " Congratulations you have successfully Completed Jenkins CI/CD demo!";
 	}
 
