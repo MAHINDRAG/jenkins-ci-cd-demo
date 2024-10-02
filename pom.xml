@@ -49,7 +49,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>jenkins_ci_cd</finalName>
+		<finalName>Jenkins_ci_cd</finalName>
 	</build>
 
 </project>
