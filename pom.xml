@@ -53,6 +53,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>jenkins_ci_cd</finalName>
 	</build>
 
 </project>
